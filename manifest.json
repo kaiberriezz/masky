@@ -4,7 +4,25 @@
   "version": "1.0.0",
   "author": "kaiberriezz",
   "description": "Custom cover-art masks for Spotify via Spicetify — drop PNG stencils and apply masks to the player and now-playing panel.",
-  "tags": ["spicetify", "masks", "stencils", "cover-art", "theme", "extension"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kaiberriezz/masky"
+  },
+  "homepage": "https://github.com/kaiberriezz/masky",
+  "screenshots": [
+    "screenshots/preview.png",
+    "screenshots/settings-entry.png",
+    "screenshots/settings-masky.png"
+  ],
+  "tags": [
+    "spicetify",
+    "masks",
+    "stencils",
+    "cover-art",
+    "theme",
+    "extension"
+  ],
   "stencils": [
     {
       "id": "ben-thespiritbaresitskills",
