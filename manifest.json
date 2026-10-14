@@ -1,0 +1,208 @@
+{
+  "version": 1,
+  "stencils": [
+    {
+      "id": "ben-thespiritbaresitskills",
+      "name": "B.E.N",
+      "file": "B.E.N (thespiritbaresitskills).png",
+      "artist": "thespiritbaresitskills",
+      "source": "Tumblr"
+    },
+    {
+      "id": "blood-splatter-mydarlingedits",
+      "name": "blood splatter",
+      "file": "blood splatter (mydarlingedits).png",
+      "artist": "mydarlingedits",
+      "source": "Tumblr"
+    },
+    {
+      "id": "bunny-ascii-artificial5u1c1d3",
+      "name": "bunny ascii w bow",
+      "file": "bunny ascii w bow (artificial5u1c1d3).png",
+      "artist": "artificial5u1c1d3",
+      "source": "Tumblr"
+    },
+    {
+      "id": "cat1-src-rat",
+      "name": "cat1",
+      "file": "cat1 (src-rat).png",
+      "artist": "src-rat",
+      "source": "Tumblr"
+    },
+    {
+      "id": "cat2-dollsciples",
+      "name": "cat2",
+      "file": "cat2 (dollsciples).png",
+      "artist": "dollsciples",
+      "source": "Tumblr"
+    },
+    {
+      "id": "cupcake-dropletknightss",
+      "name": "cupcake",
+      "file": "cupcake (dropletknightss).png",
+      "artist": "dropletknightss",
+      "source": "Tumblr"
+    },
+    {
+      "id": "cutegore-artificial5u1c1d3",
+      "name": "cutegore ahh",
+      "file": "cutegore ahh (artificial5u1c1d3).png",
+      "artist": "artificial5u1c1d3",
+      "source": "Tumblr"
+    },
+    {
+      "id": "dog1-dollsciples",
+      "name": "dog1",
+      "file": "dog1 (dollsciples).png",
+      "artist": "dollsciples",
+      "source": "Tumblr"
+    },
+    {
+      "id": "furridot-toybox-starsys",
+      "name": "furridot",
+      "file": "furridot (toybox-starsys).png",
+      "artist": "toybox-starsys",
+      "source": "Tumblr"
+    },
+    {
+      "id": "gambler1-cynthiadrops",
+      "name": "gambler1",
+      "file": "gambler1 (cynthiadrops).png",
+      "artist": "cynthiadrops",
+      "source": "Tumblr"
+    },
+    {
+      "id": "heart",
+      "name": "heart",
+      "file": "heart.png",
+      "artist": "uncredited",
+      "source": "—"
+    },
+    {
+      "id": "hello-kitty-1-nyotsoba",
+      "name": "hello kitty 1",
+      "file": "hello kitty 1 (nyotsoba).png",
+      "artist": "nyotsoba",
+      "source": "Tumblr"
+    },
+    {
+      "id": "hello-kitty-2-nyotsoba",
+      "name": "hello kitty 2",
+      "file": "hello kitty 2 (nyotsoba).png",
+      "artist": "nyotsoba",
+      "source": "Tumblr"
+    },
+    {
+      "id": "hello-kitty-3-nyotsoba",
+      "name": "hello kitty 3",
+      "file": "hello kitty 3 (nyotsoba).png",
+      "artist": "nyotsoba",
+      "source": "Tumblr"
+    },
+    {
+      "id": "holy-vaporwave-1-artificial5u1c1d3",
+      "name": "holy vaporwave weirdcore 1",
+      "file": "holy vaporwave weirdcore (artificial5u1c1d3)1.png",
+      "artist": "artificial5u1c1d3",
+      "source": "Tumblr"
+    },
+    {
+      "id": "holy-vaporwave-2-artificial5u1c1d3",
+      "name": "holy vaporwave weirdcore 2",
+      "file": "holy vaporwave weirdcore (artificial5u1c1d3)2.png",
+      "artist": "artificial5u1c1d3",
+      "source": "Tumblr"
+    },
+    {
+      "id": "jeff-thespiritbaresitskills",
+      "name": "jeff",
+      "file": "jeff (thespiritbaresitskills).png",
+      "artist": "thespiritbaresitskills",
+      "source": "Tumblr"
+    },
+    {
+      "id": "laughing-jack-thespiritbaresitskills",
+      "name": "laughing jack",
+      "file": "laughing jack (thespiritbaresitskills).png",
+      "artist": "thespiritbaresitskills",
+      "source": "Tumblr"
+    },
+    {
+      "id": "melty-luv-tuxbit",
+      "name": "melty luv",
+      "file": "melty luv (tuxbit).png",
+      "artist": "tuxbit",
+      "source": "Tumblr"
+    },
+    {
+      "id": "pompom-cynthiadrops",
+      "name": "pompom",
+      "file": "pompom (cynthiadrops).png",
+      "artist": "cynthiadrops",
+      "source": "Tumblr"
+    },
+    {
+      "id": "proxy-thespiritbaresitskills",
+      "name": "Proxy",
+      "file": "Proxy (thespiritbaresitskills).png",
+      "artist": "thespiritbaresitskills",
+      "source": "Tumblr"
+    },
+    {
+      "id": "scalloped-wings-1-nyotsoba",
+      "name": "scalloped circle w wings 1",
+      "file": "scalloped circle w wings 1 (creds nyotsoba on tumblr).png",
+      "artist": "nyotsoba",
+      "source": "Tumblr"
+    },
+    {
+      "id": "scalloped-wings-2-nyotsoba",
+      "name": "scalloped circle w wings 2",
+      "file": "scalloped circle w wings 2 (creds nyotsoba on tumblr).png",
+      "artist": "nyotsoba",
+      "source": "Tumblr"
+    },
+    {
+      "id": "scalloped-wings-3-nyotsoba",
+      "name": "scalloped circle w wings 3",
+      "file": "scalloped circle w wings 3 (creds nyotsoba on tumblr).png",
+      "artist": "nyotsoba",
+      "source": "Tumblr"
+    },
+    {
+      "id": "space-src-rat",
+      "name": "space",
+      "file": "space (src-rat).png",
+      "artist": "src-rat",
+      "source": "Tumblr"
+    },
+    {
+      "id": "space-ufo-dropletknightss",
+      "name": "space ufo",
+      "file": "space ufo (dropletknightss).png",
+      "artist": "dropletknightss",
+      "source": "Tumblr"
+    },
+    {
+      "id": "square-pawprints-artificial5u1c1d3",
+      "name": "square pawprints",
+      "file": "square pawprints (artificial5u1c1d3).png",
+      "artist": "artificial5u1c1d3",
+      "source": "Tumblr"
+    },
+    {
+      "id": "ticci-toby-thespiritbaresitskills",
+      "name": "ticci toby",
+      "file": "ticci toby (thespiritbaresitskills).png",
+      "artist": "thespiritbaresitskills",
+      "source": "Tumblr"
+    },
+    {
+      "id": "very-berry-src-rat",
+      "name": "very (straw)berry",
+      "file": "very (straw)berry (src-rat).png",
+      "artist": "src-rat",
+      "source": "Tumblr"
+    }
+  ]
+}
