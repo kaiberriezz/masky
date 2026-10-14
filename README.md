@@ -1,6 +1,6 @@
 # Masky Stencils
 
-Custom cover-art masks for Spotify via [Spicetify](https://spicetify.app/) + [Masky extension](https://github.com/your-repo/masky).
+Custom cover-art masks for Spotify via [Spicetify](https://spicetify.app/) + [Masky extension](https://github.com/kaiberriezz/masky).
 
 Drop PNG stencils in the folder, run the watcher, apply — your album art gets masked instantly.
 
