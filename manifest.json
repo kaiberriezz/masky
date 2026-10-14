@@ -1,5 +1,10 @@
 {
-  "version": 1,
+  "id": "masky-stencils",
+  "name": "Masky Stencils",
+  "version": "1.0.0",
+  "author": "kaiberriezz",
+  "description": "Custom cover-art masks for Spotify via Spicetify — drop PNG stencils and apply masks to the player and now-playing panel.",
+  "tags": ["spicetify", "masks", "stencils", "cover-art", "theme", "extension"],
   "stencils": [
     {
       "id": "ben-thespiritbaresitskills",
